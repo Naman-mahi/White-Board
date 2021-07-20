@@ -16,3 +16,8 @@
 + JQuery
 
 ![Display](https://github.com/japneetbhatia/White-Board/blob/master/images/WhiteBoard.JPG)
+## Screenshots : 
+![Display](https://github.com/japneetbhatia/White-Board/blob/master/images/WhiteBoard.png)
+![Display](https://github.com/japneetbhatia/White-Board/blob/master/images/darkmode.png)
+![Display](https://github.com/japneetbhatia/White-Board/blob/master/images/lightmode.png)
+![Display](https://github.com/japneetbhatia/White-Board/blob/master/images/Rectangle.png)
